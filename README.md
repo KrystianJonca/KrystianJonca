@@ -31,6 +31,7 @@
 
 # GitHub Stats 📝
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystianjonca&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=olafszymanski)
 
 <!--
 **KrystianJonca/KrystianJonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
