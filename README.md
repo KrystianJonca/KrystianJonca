@@ -40,15 +40,26 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # GitHub Stats 📝
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystianjonca&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=krystianjonca&theme=dark)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystianjonca&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+# Some Of My Projects 📏
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=full-stack-ecommerce-app&theme=dark)](https://github.com/KrystianJonca/full-stack-ecommerce-app)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=serverless-newsletter-list&theme=dark)](https://github.com/KrystianJonca/serverless-newsletter-list)&nbsp;&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=toss-me-a-coin&theme=dark)](https://github.com/KrystianJonca/toss-me-a-coin)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=crypto-dashboard&theme=dark)](https://github.com/KrystianJonca/crypto-dashboard)&nbsp;&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=personal-portfolio-blog&theme=dark)](https://github.com/KrystianJonca/personal-portfolio-blog)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=travel-agency-landing-page&theme=dark)](https://github.com/KrystianJonca/travel-agency-landing-page)&nbsp;&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=insurance-agent-landing-page&theme=dark)](https://github.com/KrystianJonca/insurance-agent-landing-page)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianJonca&repo=wordle-clone&theme=dark)](https://github.com/KrystianJonca/wordle-clone)&nbsp;&nbsp;
 
 <!--
 **KrystianJonca/KrystianJonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
