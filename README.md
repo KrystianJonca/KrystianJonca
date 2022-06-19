@@ -6,7 +6,6 @@
 - 👀 Programming since 12.
 - 🌱 Learning new things and improving every day.
 - 💞️ I’m looking to collaborate on any JavaScript project.
-- 🚀 Available for hire.
 - 📫 You can contact me here: krystianjonca17@gmail.com.
 
 # Let's connect 🙌
