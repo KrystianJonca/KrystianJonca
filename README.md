@@ -5,7 +5,6 @@
 - 👋 Hi, I’m @KrystianJonca. I am an 18 year old, hardworking and passionate developer, based in Poland.
 - 👀 Programming since 12.
 - 🌱 Learning new things and improving every day.
-- 💞️ I’m looking to collaborate on any JavaScript project.
 - 📫 You can contact me here: krystianjonca17@gmail.com.
 
 # Let's connect 🙌
