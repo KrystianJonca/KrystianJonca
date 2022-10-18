@@ -2,7 +2,7 @@
 
 # About me 👨‍💻
 
-- 👋 Hi, I’m @KrystianJonca. hardworking and passionate developer who loves coding and creating new stuff 🙌
+- 👋 Hi, I’m @KrystianJonca, hardworking and passionate developer who loves coding and creating amazing things 🙌
 - 👀 Programming since 12.
 - 🌱 Learning new things and improving every day.
 - 📫 You can contact me here: krystian@jonca.dev
