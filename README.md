@@ -1,13 +1,13 @@
-[![Github Header](./GitHubHeader.png)](https://krystianjonca.vercel.app/)
+[![Github Header](./GitHubHeader.png)](https://jonca.dev/)
 
 # About me 👨‍💻
 
-- 👋 Hi, I’m @KrystianJonca. I am an 18 year old, hardworking and passionate developer, based in Poland.
+- 👋 Hi, I’m @KrystianJonca. hardworking and passionate developer who loves coding and creating new stuff 🙌
 - 👀 Programming since 12.
 - 🌱 Learning new things and improving every day.
 - 📫 You can contact me here: krystian@jonca.dev
 
-# Let's connect 🙌
+# Let's connect 🤙
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KrystianJonca)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/krystianjonca)
 
