@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @KrystianJonca, passionate developer who loves solving problems and creating amazing things 🙌
 - 👀 Programming since 12.
 - 🌱 Learning new things and improving every day.
-- 📫 You can contact me here: krystian@jonca.dev
+- 📫 You can contact me here: krystianjonca17@gmail.com
 
 # Let's connect 🤙
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KrystianJonca)
